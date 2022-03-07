@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="16px" viewBox="0 0 26 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Checkout-(Website)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkout_var3_Monthly" transform="translate(-767.000000, -645.000000)" fill-rule="nonzero" fill="#0079BE">
+            <g id="Group-7" transform="translate(410.000000, 636.000000)">
+                <g id="jcb" transform="translate(357.000000, 9.000000)">
+                    <path d="M18,16 L8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 L8,0 L18,0 C22.418278,0 26,3.581722 26,8 C26,12.418278 22.418278,16 18,16 Z M8,15 C11.865993,15 15,11.865993 15,8 C15,4.134007 11.865993,1 8,1 C4.134007,1 1,4.134007 1,8 C1,11.865993 4.134007,15 8,15 Z M9,11.873983 C10.725227,11.42994 12,9.863839 12,8 C12,6.136161 10.725227,4.57006 9,4.126017 L9,11.873983 L9,11.873983 Z M7,4.126017 C5.274773,4.57006 4,6.136161 4,8 C4,9.863839 5.274773,11.42994 7,11.873983 L7,4.126017 L7,4.126017 Z" id="diners_club"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
